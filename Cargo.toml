@@ -11,6 +11,7 @@ members = [
   "contracts/predictify-hybrid/fuzz",
   "contracts/disputes/fuzz",
   "contracts/resolution/fuzz",
+  "contracts/monitor/fuzz",
   "contracts/auction",
   "contracts/analytics",
 ]
